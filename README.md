@@ -1,2 +1,2 @@
-# stat545 exploration
+# Exploration
 A repository for exploring version control and markdown
